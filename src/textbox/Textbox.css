@@ -1,0 +1,4 @@
+.has-error .control-label,
+.has-error .help-block,.required {
+    color: #b94a48;
+}
