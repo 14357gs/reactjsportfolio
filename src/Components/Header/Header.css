@@ -1,0 +1,10 @@
+bottomnav{
+ position:relative;
+}
+
+.bottomnav .navbar-nav>li{
+  list-style-type: none;
+  display: inline;
+  padding: 8px;
+  background-color: #dddddd;
+}
