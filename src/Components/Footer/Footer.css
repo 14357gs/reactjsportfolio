@@ -1,0 +1,23 @@
+.footer ul li {
+  list-style: none;
+  float: left;
+  box-sizing: border-box;
+  border-left: 1px solid #fff;
+  border-right: 1px solid #ccc;
+  width: 16.6667%; /* fallback for non-calc() browsers */
+  width: calc(100% / 6);
+  box-sizing: border-box;
+
+
+}
+
+.footer
+{
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: center;
+}
